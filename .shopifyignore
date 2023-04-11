@@ -1,0 +1,5 @@
+external/
+.vscode/
+.gitignore
+.theme-check.yml
+README.md

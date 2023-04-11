@@ -1,0 +1,31 @@
+{
+  "editor.tabSize": 2,
+  "[liquid]": {
+    "editor.tabSize": 2
+  },
+  "[javascript]": {
+    "editor.tabSize": 2
+  },
+  "[json]": {
+    "editor.tabSize": 2
+  },
+  "[scss]": {
+    "editor.tabSize": 2
+  },
+  "[css]": {
+    "editor.tabSize": 2
+  },
+  "[html]": {
+    "editor.tabSize": 2
+  },
+  "shopifyLiquid.formatterDevPreview": true,
+  "shopifyLiquid.disableWindowsWarning": false,
+  "themeCheck.onlySingleFileChecks": true,
+  "search.exclude": {
+    "**/node_modules": true,
+    "**/bower_components": true,
+    "**/tmp": true,
+    "**/assets/bundle.css": true,
+    "**/assets/bundle.js": true
+  }
+}

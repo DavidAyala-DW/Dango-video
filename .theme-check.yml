@@ -1,0 +1,6 @@
+root: ./
+SchemaJsonFormat:
+  enabled: true
+  severity: style
+  start_level: 0
+  indent: '  '
